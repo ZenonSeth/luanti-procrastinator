@@ -1,0 +1,2 @@
+
+procrastinator_chance (Chance to be lazy) float 0.15 0 1
